@@ -1,9 +1,10 @@
 package com.user.scorvest;
 
+import android.app.Activity;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-public class TrackerCreator extends AppCompatActivity {
+public class TrackerCreator extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
